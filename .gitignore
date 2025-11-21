@@ -73,8 +73,6 @@ mono_crash.*
 *.unitypackage.meta
 *.app
 
---global user.email "you@example.com"
---global user.name "Your Name"
 
 # Crashlytics generated file
 crashlytics-build.properties
